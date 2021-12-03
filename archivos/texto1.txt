@@ -1,4 +1,4 @@
-Bienvenidos al módulo 5
+Bienvenidos al modulo 5
 Manejo de archivos en Python
-Hoy es nuestra última sesión
+Hoy es nuestra ultima sesion
 "Saludos :D"
