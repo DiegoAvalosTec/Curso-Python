@@ -1,0 +1,14 @@
+Buenos días a todos 
+Bienvenidos al curso de Python 
+el módulo es Manejo de archivos
+La cantidad de alumnos son: 3
+alumnos=['luis', 'Ana', 'Pedro']Buenos días a todos 
+Bienvenidos al curso de Python 
+el módulo es Análisis
+La cantidad de alumnos son: 4
+alumnos=['Juan', 'Manuel', 'Alex', 'Antonio']
+ Buenos días a todos 
+Bienvenidos al curso de Python 
+el módulo es Estructuras
+La cantidad de alumnos son: 2
+alumnos=['Pepe', 'Toño']
